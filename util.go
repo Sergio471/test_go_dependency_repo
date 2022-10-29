@@ -1,0 +1,5 @@
+package somename
+
+func DoNothing() {
+
+}
